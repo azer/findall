@@ -11,6 +11,8 @@ findall(text, /($\w+)/)
 ['$ipsum', '$dolor']
 ```
 
+See `test.js` for more info.
+
 ## Install
 
 ```bash
