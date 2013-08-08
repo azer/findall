@@ -1,0 +1,22 @@
+{
+  "name": "findall",
+  "version": "0.0.0",
+  "description": "finds all regex matchings ",
+  "main": "index.js",
+  "scripts": {
+    "test": "fox"
+  },
+  "devDependencies": {
+    "fox": "*"
+  },
+  "keywords": [
+    "regex",
+    "find"
+  ],
+  "repository": {
+    "url": "git@github.com:azer\/findall.git",
+    "type": "git"
+  },
+  "author": "Azer Ko\u00e7ulu <azer@kodfabrik.com>",
+  "license": "BSD"
+}
