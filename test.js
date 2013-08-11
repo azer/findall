@@ -16,3 +16,9 @@ it('returns true if no groups found but matched', function(){
   var text = 'lorem $ipsum sit $dolor amet';
   expect(findall(text, /\$\w+/g)).to.deep.equal(true);
 });
+
+it('returns one result if global flag isnt specified', function(){
+  var text = 'lorem $ipsum sit $dolor amet';
+
+  expect(findall(text, /(\$\w+)/)).to.deep.equal(['$ipsum']);
+});
