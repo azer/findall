@@ -1,6 +1,6 @@
 {
   "name": "findall",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "finds all regex matchings ",
   "main": "index.js",
   "scripts": {
@@ -14,9 +14,9 @@
     "find"
   ],
   "repository": {
-    "url": "git@github.com:azer\/findall.git",
+    "url": "git@github.com:azer/findall.git",
     "type": "git"
   },
-  "author": "Azer Ko\u00e7ulu <azer@kodfabrik.com>",
+  "author": "Azer Koçulu <azer@kodfabrik.com>",
   "license": "BSD"
 }
