@@ -34,5 +34,3 @@ Always pass the regex itself.
 ```js
 findall('this will work', /whatever regex is/g)
 ```
-
-![](http://distilleryimage8.ak.instagram.com/82a955eafd8411e281c522000a9e035f_6.jpg)
