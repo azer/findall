@@ -16,7 +16,7 @@ See `test.js` for more info.
 ## Install
 
 ```bash
-$ npm install findall
+$ npm install azer/findall
 ```
 
 ## Warning
